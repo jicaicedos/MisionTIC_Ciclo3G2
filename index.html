@@ -6,12 +6,18 @@
 	<title>Grupo 57</title>
 </head>
 <body>
-	<h1>Git y GitHub</h1>
-	<p>
-		Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código. 		
-	</p>
-	<p>
-		Tomado de Wikipedia: https://es.wikipedia.org/wiki/Git
-	</p>
+    <header>
+        <h1 id="titulo">Empezando con JavaScript</h1>
+        <p id="parrafo">Mi primer párrafo</p>
+        <img id="imagen" src="misionTIC.jpg" alt="misionTIC">
+    </header>
+	<button onclick="cambiarColor()">Cambiar color</button>
+	<script>
+		// document.getElementById("titulo").style.color = "gray"
+		// document.getElementById("parrafo").innerHTML = "Nuevo parrafo con JavaScript"
+		function cambiarColor() {
+			document.getElementById("imagen").src="misionTIC2.jpg";
+		}
+	</script>
 </body>
 </html>
