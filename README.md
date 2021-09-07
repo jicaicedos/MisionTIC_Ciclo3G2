@@ -3,7 +3,6 @@
 ## Grupo 57 - Misión TIC
 
 
-
 Repositorio para desarrollar los Sprint en el ciclo 3 de la Misión TIC 
 
 ## Integrantes del Grupo
@@ -12,9 +11,3 @@ Repositorio para desarrollar los Sprint en el ciclo 3 de la Misión TIC
 * Oscar Tascón
 * Nancy Maria Quintero
 * Javier Caicedo
-
-
-
-
-
-
